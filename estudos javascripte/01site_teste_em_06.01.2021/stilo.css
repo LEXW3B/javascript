@@ -1,0 +1,47 @@
+body {/*corpo do site */
+    background-image: 'capa.png';
+    color: red;
+}
+section#embed {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    margin: center;box-shadow: 5px 5px 10px rgba(15, 15, 15, 0.459);
+    width: 68vh;/*deixa largo*/
+    color: red;
+    border-radius: 10px;/*aredonda as bordas*/
+    padding: 100px;/*fino*/
+    background-color: rgba(15, 15, 15); 
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;     
+}
+div {/*divisões*/
+    font-size: large;
+    color: red;
+    text-align: center;
+}
+footer {/*roda pé*/
+    width:'' ;
+    font-size: italic;
+    text-align: center;
+    color: red;    
+}
+section#link {/*evento mouse*/
+    color: red;
+}
+#mostrar1{
+    display: none;
+}  
+#passar_mouse1:hover #mostrar1{
+    display:block;
+}
+#mostrar{
+    display: none;
+}      
+#passar_mouse:hover #mostrar{
+    display:block;
+}

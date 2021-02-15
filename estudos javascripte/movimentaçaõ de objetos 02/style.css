@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+   }
+   
+   
+   .sidebar {
+    display: inline;
+    width: 25%;
+    float: left;
+    background-color: gray;
+    text-align: center;
+   }
+   
+   .article {
+    display: inline;
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+   }
+   
+   
+   .sidebar2 {
+    display: inline;
+    width: 25%;
+    float: right;
+    background-color: gray;
+    text-align: center;
+   }
+body {
+    background-color: yellow;
+}

@@ -1,0 +1,30 @@
+header {
+    width: 100%;
+    border: solid; 
+   }
+   .h1 {
+        text-align: center;
+   }
+   .h2 {
+        text-align: center;
+   }
+   
+   .article {
+    display: inline;
+    width: 25%;
+    float: left;
+    background-color: yellow;
+    text-align: center;
+   }
+   
+   .sidebar {
+    display: inline;
+    width: 25%;
+    float: right;
+    background-color: aqua;
+    text-align: center;
+   }
+body {
+    background-color: red;
+    text-align: center;
+}

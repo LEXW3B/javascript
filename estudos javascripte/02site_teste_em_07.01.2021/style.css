@@ -1,0 +1,28 @@
+body {
+    background-color: violet;
+}
+section#pare {
+    background-color: red;
+    text-align: center;
+    margin-left: 10px;
+    color: black;
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+
+}
+section#siga {
+    background-color: green;
+    text-align: center;
+    margin-left: 10px;
+    color: black;
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
+section {
+    background-color: violet;
+    color: violet;
+}
